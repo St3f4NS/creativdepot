@@ -39,7 +39,7 @@
 		"gulp-svgstore": "^7.0.1",
 		"gulp-uglify": "^3.0.2",
 		"gulp-zip": "^5.0.1",
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"svgstore": "^3.0.0-2",
 		"vinyl-named": "^1.1.0",
 		"webpack-stream": "^5.2.1",
